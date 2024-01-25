@@ -1,0 +1,4 @@
+content_folder_base: docs
+authorized_users:
+  - bllchmbrs
+  - hyperlint-ai
