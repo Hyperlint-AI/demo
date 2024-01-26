@@ -1,4 +1,4 @@
-content_folder_base: docs
+content_folder_root: docs
 authorized_users:
   - bllchmbrs
   - hyperlint-ai
