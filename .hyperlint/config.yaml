@@ -1,4 +1,3 @@
-content_folder_root: docs
+content_dir: docs
 authorized_users:
   - bllchmbrs
-  - hyperlint-ai
