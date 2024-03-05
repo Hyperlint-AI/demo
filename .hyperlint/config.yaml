@@ -1,3 +1,5 @@
 content_dir: /
 authorized_users:
   - bllchmbrs
+vale:
+  enabled: true
